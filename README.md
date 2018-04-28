@@ -1,3 +1,3 @@
-# my-dts-workspace
+# my-workspace
 
 Description...
